@@ -1,0 +1,12 @@
+date,location,accident_type,vehicles_involved,injuries,deaths
+2025-01-05,Chennai,Collision,2,3,0
+2025-01-07,Bangalore,Over Speed,1,1,0
+2025-01-10,Delhi,Hit and Run,3,4,1
+2025-01-12,Mumbai,Skid,2,2,0
+2025-01-15,Hyderabad,Collision,4,5,1
+2025-01-18,Chennai,Over Speed,1,0,0
+2025-01-20,Bangalore,Collision,2,1,0
+2025-01-22,Delhi,Other,1,0,0
+2025-02-01,Mumbai,Hit and Run,3,3,1
+2025-02-05,Hyderabad,Skid,2,2,0
+2025-02-10,
